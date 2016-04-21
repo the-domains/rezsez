@@ -1,0 +1,28 @@
+name: RezSez
+favicon: null
+layout_spectrum: 0.20664425706490874
+typography_spectrum: 0.7265916105825454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2538374401628971
+  lightness: 0.7539979908615351
+  saturation: 0.6502086066175252
+  rhythmicContrast: 0.44901733403094113
+purpose: []
