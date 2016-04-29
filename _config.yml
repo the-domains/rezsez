@@ -1,7 +1,7 @@
 name: RezSez
 favicon: null
-layout_spectrum: 0.98532
-typography_spectrum: 0.26408
+layout_spectrum: 0.26626
+typography_spectrum: 0.76995
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#6a88a2'
     - '#ffb371'
     - '#874c22'
-  brandStrength: 0.625
-  lightness: 0.7539979908615351
-  saturation: 0.6502086066175252
+  brandStrength: 0.9375
+  lightness: 0.5
+  saturation: 0.3125
   rhythmicContrast: 0.44901733403094113
 purpose: []
