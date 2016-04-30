@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RezSez]]></title>
         <description><![CDATA[RezSez]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://rezsez.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 01:39:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 01:47:05 GMT</lastBuildDate>
+        <atom:link href="http://rezsez.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The effects of facial hair manipulation on female perceptions of attractiveness, masculinity, and dominance in male faces]]></title>
+            <description><![CDATA[<article><h1>The effects of facial hair manipulation on female perceptions of attractiveness, masculinity, and dominance in male faces</h1><p>Interesting study!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf4d1382035bd2b09724961dbcf971a1e3aedc20.gif"></article>]]></description>
+            <link>http://www.sciencedirect.com/science/article/pii/S0191886908001748</link>
+            <guid isPermaLink="false">4e00306c-e2c3-448f-b9ed-9351c856d6c7</guid>
+            <pubDate>Sat, 30 Apr 2016 01:47:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beard Styles for Men]]></title>
             <description><![CDATA[<h1>Beard Styles for Men</h1>]]></description>
-            <link>undefinedbeard-styles-for-men/index.html</link>
+            <link>http://rezsez.com/beard-styles-for-men/index.html</link>
             <guid isPermaLink="false">93730b70-cb45-4b89-8ac4-c3bd09215c14</guid>
             <pubDate>Sat, 30 Apr 2016 01:39:21 GMT</pubDate>
         </item>
