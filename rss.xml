@@ -4,8 +4,15 @@
         <description><![CDATA[RezSez]]></description>
         <link>http://rezsez.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 01:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2016 02:01:34 GMT</lastBuildDate>
         <atom:link href="http://rezsez.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Behav. Eco]]></title>
+            <description><![CDATA[<article><h1>Behav. Eco</h1><p>Interesting article!</p><img src="http://m.beheco.oxfordjournals.org/files/misc/publisher/beheco_journal_logo.png"></article>]]></description>
+            <link>http://m.beheco.oxfordjournals.org/content/early/2012/01/12/beheco.arr214.short</link>
+            <guid isPermaLink="false">b04a770d-b370-4f19-85b5-934bde1b99c8</guid>
+            <pubDate>Sat, 30 Apr 2016 02:01:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beard Styles for Men]]></title>
             <description><![CDATA[<h1>Beard Styles for Men</h1>]]></description>
